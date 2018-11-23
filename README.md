@@ -1,5 +1,7 @@
 # ServiceManager
+
 ############################# Data base Items ##################################
+
 Track Customers
 Keep track of customer 
   1. address
@@ -22,9 +24,11 @@ keep track of service tickets
   3. date needed
   4. assigned or not
   5. assigned to
+
 ################################################################################
 
 ############################### screens ########################################
+
 Customers page(list of customers)
 options
     1. edit
